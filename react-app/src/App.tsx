@@ -16,7 +16,7 @@ function App() {
         onSelectItem={handleSelectItem}
       ></ListGroup>
       <Alert>Hello World</Alert>
-      <Button></Button>
+      <Button name="Submit"></Button>
     </div>
   );
 }
